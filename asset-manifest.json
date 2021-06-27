@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.39cb6cdd.chunk.css",
-    "main.js": "/static/js/main.b6b47427.chunk.js",
-    "main.js.map": "/static/js/main.b6b47427.chunk.js.map",
+    "main.js": "/static/js/main.dc405fe7.chunk.js",
+    "main.js.map": "/static/js/main.dc405fe7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e632330f.js",
     "runtime-main.js.map": "/static/js/runtime-main.e632330f.js.map",
-    "static/js/2.5cdffc8d.chunk.js": "/static/js/2.5cdffc8d.chunk.js",
-    "static/js/2.5cdffc8d.chunk.js.map": "/static/js/2.5cdffc8d.chunk.js.map",
+    "static/js/2.2fcc1f79.chunk.js": "/static/js/2.2fcc1f79.chunk.js",
+    "static/js/2.2fcc1f79.chunk.js.map": "/static/js/2.2fcc1f79.chunk.js.map",
     "static/js/3.cff20489.chunk.js": "/static/js/3.cff20489.chunk.js",
     "static/js/3.cff20489.chunk.js.map": "/static/js/3.cff20489.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.39cb6cdd.chunk.css.map": "/static/css/main.39cb6cdd.chunk.css.map",
-    "static/js/2.5cdffc8d.chunk.js.LICENSE.txt": "/static/js/2.5cdffc8d.chunk.js.LICENSE.txt",
+    "static/js/2.2fcc1f79.chunk.js.LICENSE.txt": "/static/js/2.2fcc1f79.chunk.js.LICENSE.txt",
     "static/js/3.cff20489.chunk.js.LICENSE.txt": "/static/js/3.cff20489.chunk.js.LICENSE.txt",
     "static/media/android.9e98e7af.png": "/static/media/android.9e98e7af.png",
     "static/media/ansible.58aaf03a.svg": "/static/media/ansible.58aaf03a.svg",
@@ -38,8 +38,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e632330f.js",
-    "static/js/2.5cdffc8d.chunk.js",
+    "static/js/2.2fcc1f79.chunk.js",
     "static/css/main.39cb6cdd.chunk.css",
-    "static/js/main.b6b47427.chunk.js"
+    "static/js/main.dc405fe7.chunk.js"
   ]
 }
